@@ -39,4 +39,5 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 - Documentação oficial do Lombok
 - Documentação oficial do Map Struct
 - Referência para o padrão arquitetural REST
-### https://github.com/rpeleias/personapi_digital_innovation_one#:~:text=Digital%20Innovation%3A%20Expert,da%20nossa%20sess%C3%A3o. Neste link, seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
+
+### [Neste link](https://github.com/rpeleias/personapi_digital_innovation_one#:~:text=Digital%20Innovation%3A%20Expert,da%20nossa%20sess%C3%A3o.) seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
